@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": "String",
+    "name": 1000
+  },
+  "name": true,
+  "photoUrls": [
+    1000
+  ],
+  "tags": [
+    {
+      "id": false,
+      "name": 1000
+    }
+  ],
+  "status": true
+}
